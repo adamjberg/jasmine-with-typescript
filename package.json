@@ -1,0 +1,17 @@
+{
+  "name": "jasmine-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^4.3.0",
+    "jasmine": "^4.4.0",
+    "typescript": "^4.8.4"
+  }
+}
